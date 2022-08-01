@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### States 
 Default state
-![Default State](https://imgur.com/Yo6rLv0)
+[Imgur](https://i.imgur.com/Yo6rLv0.png)
 Minimum State
-![Minimum State](https://imgur.com/vVzd0ka)
-
-![Max State](https://imgur.com/cJgwcJn)
+[Imgur](https://i.imgur.com/vVzd0ka.png)
+Max 
+[Imgur](https://i.imgur.com/cJgwcJn.png)
 ## Example steup 
 
 defaultFont - set default font size
