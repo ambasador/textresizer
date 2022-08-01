@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Default state 
+
+https://imgur.com/Yo6rLv0
+
 ## Clone app
 
 git clone https://github.com/ambasador/textresizer.git
