@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Default state 
 
-<img src="https://imgur.com/Yo6rLv0" />
+<img src=https://imgur.com/Yo6rLv0 alt="Default state" />
 
 ## Clone app
 
